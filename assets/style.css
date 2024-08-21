@@ -1,0 +1,118 @@
+body {
+    text-align: center;
+    background-image: url('./imágenes/fondoo.jpg');
+
+}
+.lino{
+    border-radius: 20px;
+}
+.contenido {
+    /* border-color: pink;
+    border-radius: 85px;
+    border: 2px dotted pink;
+    border-style: double; */
+    width: 90%;
+    display: inline-block;    
+}
+.menu {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+}
+.menuIz {
+    background-color: rgba(211, 171, 243, 0.541);
+    border-radius: 20px;
+    border: 2px rgb(255, 255, 255);
+    border-style: dashed;
+    margin: 3px;
+}
+.menuDer {
+    background-color: rgba(211, 171, 243, 0.541);
+    border-radius: 20px;
+    border: 2px rgb(255, 255, 255);
+    border-style: dashed;
+    margin: 3px;
+}
+.skz-title{
+    background-color: rgba(211, 171, 243, 0.541);
+    border-radius: 25px;
+    border: 2px rgb(255, 255, 255);
+    border-style: dashed;
+    margin: 3px;
+    padding: 15px;
+}
+.skz {
+    background-color: rgba(211, 171, 243, 0.541);
+    border-radius: 20px;
+    border: 1px rgb(255, 255, 255);
+    border-style: dotted;
+    margin: 3px;
+    padding: 45px;
+    justify-items: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.skz-ate {
+    border-radius: 200px;
+    height: 800px;
+    padding: 25px;  
+}
+.racha {
+    border-radius: 200px;
+    padding: 25px;
+}
+.integrantes {
+    background-color: rgba(211, 171, 243, 0.541);
+    border-radius: 20px;
+    border: 1px rgb(255, 255, 255);
+    border-style: dotted;
+    margin: 3px;
+    align-items: center;
+    justify-items: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+#Párrafo-1 {
+    background-color: rgba(211, 171, 243, 0.541);
+    border-radius: 20px;
+    border: 1px rgb(255, 255, 255);
+    border-style: dotted;
+    margin: 3px;
+    padding: 15px;
+}
+#Párrafo-2 {
+    background-color: rgba(211, 171, 243, 0.541);
+    border-radius: 20px;
+    border: 1px rgb(255, 255, 255);
+    border-style: dotted;
+    margin: 3px;
+    padding: 15px;
+}
+#Párrafo-3 {
+    background-color: rgba(211, 171, 243, 0.541);
+    border-radius: 20px;
+    border: 1px rgb(255, 255, 255);
+    border-style: dotted;
+    margin: 3px;
+    padding: 15px;
+}
+p {
+    border-radius: 20px;
+    margin: 3px;
+    padding: 15px;
+    text-align: center;
+    font-family: Bellota;
+    font-size: 10 px;
+    /* border-style: dashed;
+    border-color: pink;
+    border-radius: 100px;
+    border: 5px dashed pink; */
+}
+.final {
+    background-color: rgba(211, 171, 243, 0.541);
+    border-radius: 20px;
+    border: 1px rgb(255, 255, 255);
+    border-style: dotted;
+    margin: 3px;
+    padding: 15px;
+}
